@@ -1,7 +1,3 @@
-//Audio out with 38.5kHz sampling rate and interrupts
-//by Amanda Ghassaei
-//http://www.instructables.com/id/Arduino-Audio-Input/
-//Sept 2012
 
 /*
  * This program is free software; you can redistribute it and/or modify
